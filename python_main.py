@@ -15,4 +15,4 @@ preds = regr.predict(x.reshape(-1, 1))
 plt.plot(x, y)
 plt.scatter(x, preds)
 
-plt.show()
+plt.show() #COmmit this
